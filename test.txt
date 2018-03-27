@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 alksjdlfkjalksjlkjalksja
 lslkjflksajlkfa
 jalksjdl;kjal;s
@@ -10,3 +11,6 @@ ksdnflasdnfansf
 =======
 kfhkjhkjhfkjhkjhkjhksdnflasdnfansf
 >>>>>>> mybranch2
+=======
+ldfkafnsnfijkhkjhjksdnflasdnfansf
+>>>>>>> mybranch3
